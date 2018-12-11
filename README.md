@@ -3,7 +3,10 @@ Docker is the most revolutionized technology in virtualization world nowadays. D
 
 **Step 1- Install Docker in Ubuntu 16.04:**
 
-Please follow Step by Step installation of Docker Ubuntu 16.04 in my previous blog- https://linuxhowtoguide.blogspot.com/2018/08/how-to-install-docker-in-ubuntu-1604-lts.html
+Please follow Step by Step installation of Docker Ubuntu 16.04 in my previous blog- 
+```
+https://linuxhowtoguide.blogspot.com/2018/08/how-to-install-docker-in-ubuntu-1604-lts.html
+```
 
 **Step 2-  download Dockerfile:**
 
