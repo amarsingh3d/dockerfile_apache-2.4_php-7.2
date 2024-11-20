@@ -41,3 +41,4 @@ In order to Verify container and PHP version open browser and access host IP add
 
 
 
+Semiannual update - Wed Nov 20 11:30:50 UTC 2024
